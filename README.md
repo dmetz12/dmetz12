@@ -19,8 +19,6 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 ### 🧰 Languages and Tools
 
-<!-- <img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/FwaVI1qCE7hQ/powershell" /> -->
-
 <img  align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/powershell.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -53,7 +51,7 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 ### 📊 Stats
 
-![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&theme=holi)
+![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&theme=algolia)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
