@@ -54,7 +54,7 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 ### 📊 Stats
 
-![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&theme=gruvbox)
+![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&theme=holi)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
