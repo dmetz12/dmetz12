@@ -1,6 +1,6 @@
 # 💻 Dan Metzler 
 
-📍 [🇺🇸]
+## 📍 [🇺🇸]
 
 **`Digital Craftsman (SystemAdmin/Developer/Creator)`**
 
@@ -39,7 +39,7 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- [![If the code works, don’t touch it.](https://ytcards.demolab.com/?id=wT07kW-aPUQ&title=If+the+code+works%2C+don%E2%80%99t+touch+it.&lang=en&timestamp=1693929644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "If the code works, don’t touch it.")](https://www.youtube.com/watch?v=wT07kW-aPUQ)
@@ -64,4 +64,4 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 <details>
  <summary><h3>👨‍💻 Dan Metzler's Coding Journey</h3></summary>
-My coding journey commenced during my days as a curious information systems student, eager to explore the endless possibilities of the tech world. Upon graduating, I secured a role as a system administrator, specializing in Identity and Access Management (IAM) and PrivilegedAccess Management (PAM). Within this domain, I encountered numerous monotonous and repetitive tasks that fueled my determination to embrace PowerShell and Python, two powerful languages for automation and scripting. My aspiration is to further advance my skills in the automationrealm and transition into the exciting world of DevOps, where I can blend my newfound scripting expertise with a holistic approach to software development and operations.
+My coding journey commenced during my days as a curious information systems student, eager to explore the endless possibilities of the tech world. Upon graduating, I secured a role as a system administrator for a global firm, specializing in Identity and Access Management (IAM) and Privileged Access Management (PAM). Within this domain, I encountered numerous monotonous and repetitive tasks that fueled my determination to embrace PowerShell and Python, two powerful languages for automation and scripting. My aspiration is to further advance my skills in the automationrealm and transition into the exciting world of DevOps, where I can blend my newfound scripting expertise with a holistic approach to software development and operations.
