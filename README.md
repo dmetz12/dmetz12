@@ -1,4 +1,6 @@
-# 💻 Dan Metzler [🇺🇸]
+# 💻 Dan Metzler 
+
+📍 [🇺🇸]
 
 **`Digital Craftsman (SystemAdmin/Developer/Creator)`**
 
