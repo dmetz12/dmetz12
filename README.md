@@ -1,4 +1,4 @@
-# 🏄‍♂️ Dan Metzler
+# 💻🔋 Dan Metzler
 
 **`Digital Craftsman (SystemAdmin/Developer/Creator)`**
 
@@ -61,5 +61,5 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 #
 
 <details>
- <summary><h3>👨‍💻 Dan Metzlers's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Dan Metzler's Coding Journey</h3></summary>
 My coding journey commenced during my days as a curious information systems student, eager to explore the endless possibilities of the tech world. Upon graduating, I secured a role as a system administrator, specializing in Identity and Access Management (IAM) and PrivilegedAccess Management (PAM). Within this domain, I encountered numerous monotonous and repetitive tasks that fueled my determination to embrace PowerShell and Python, two powerful languages for automation and scripting. My aspiration is to further advance my skills in the automationrealm and transition into the exciting world of DevOps, where I can blend my newfound scripting expertise with a holistic approach to software development and operations.
