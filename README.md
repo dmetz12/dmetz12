@@ -1,7 +1,5 @@
 # 💻 Dan Metzler 
 
-## 📍 [🇺🇸]
-
 **`Digital Craftsman (SystemAdmin/Developer/Creator)`**
 
 I'm a dedicated system administrator with a passion for crafting advanced scripts to empower enterprise-level automation endeavors. I take pride in optimizing processes to save valuable time and always strive to discover the most efficient pathways for workflow execution.
