@@ -52,21 +52,19 @@
 
 #
 
-## 📊 Stats
-
 <!-- | ![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia) | ![Dan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&layout=compact) |
 |---|---| -->
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia" alt="Dan Metzlers's GitHub stats" width="48%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&layout=compact" alt="Dan's Top Langs" width="48%">
-</div>
+</div> -->
 
 ## :bar_chart: GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&count_private=true">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12">
-
+<p align="center">
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&count_private=true&hide_rank=true&theme=algolia">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&theme=algolia">
+</p>
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
