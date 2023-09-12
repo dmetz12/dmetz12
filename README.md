@@ -24,7 +24,7 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 ---
 
 ### 🧰 Languages and Tools
-
+<p align="center">
 ![](https://img.shields.io/static/v1?label=OS&message=MacOS&color=0FC1FF&style=for-the-badge&logo=apple)
 ![](https://img.shields.io/static/v1?label=Shell&message=zsh&color=0FC1FF&style=for-the-badge&logo=shell)
 ![](https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=0FC1FF&style=for-the-badge&logo=visual-studio-code)
@@ -32,7 +32,7 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 ![](https://img.shields.io/static/v1?label=Code&message=Python&color=0FC1FF&style=for-the-badge&logo=python)
 ![](https://img.shields.io/static/v1?label=Code&message=PowerShell&color=0FC1FF&style=for-the-badge&logo=powershell)
 ![](https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=0FC1FF&style=for-the-badge&logo=github)
-
+</p>
 
 <br />
 
