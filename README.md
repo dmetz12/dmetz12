@@ -34,8 +34,7 @@
    <img src="https://img.shields.io/static/v1?label=Code&message=PowerShell&color=0FC1FF&style=for-the-badge&logo=powershell"/>
    <img src="https://img.shields.io/static/v1?label=Tools&message=GitHub&color=0FC1FF&style=for-the-badge&logo=github"/>
 </p>
-<br />
-
+<br/>
 
 <!-- ### 📺 Latest YouTube Videos -->
 
@@ -49,8 +48,6 @@
 <!-- END YOUTUBE-CARDS -->
 
 <!--[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
-
-#
 
 <!-- | ![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia) | ![Dan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&layout=compact) |
 |---|---| -->
@@ -66,11 +63,9 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&theme=algolia">
 </p>
 
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
-
+<br/>
 <details>
  <summary><h3>👨‍💻 Dan Metzler's Coding Journey</h3></summary>
 My coding journey commenced during my days as a curious information systems student, eager to explore the endless possibilities of the tech world. Upon graduating, I secured a role as a system administrator for a global firm, specializing in Identity and Access Management (IAM) and Privileged Access Management (PAM). Within this domain, I encountered numerous monotonous and repetitive tasks that fueled my determination to embrace PowerShell and Python, two powerful languages for automation and scripting. My aspiration is to further advance my skills in the automation realm and transition into the exciting world of DevOps, where I can blend my newfound scripting expertise with a holistic approach to software development and operations.
