@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=30&duration=0000001&pause=1000&color=0FC1FF&center=true&repeat=false&width=435&lines=Dan+Metzler)](https://git.io/typing-svg)
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=30&duration=0000001&pause=1000&color=0FC1FF&center=true&repeat=false&width=435&lines=Dan+Metzler"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=26&pause=1000&color=0FC1FF&center=true&width=435&lines=System+Administrator;Security+%26+Automation+Engineer;UI%2FUX+Designer;Digital+Creator)](https://git.io/typing-svg)
-
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=26&pause=1000&color=0FC1FF&center=true&width=435&lines=System+Administrator;Security+%26+Automation+Engineer;UI%2FUX+Designer;Digital+Creator"/>
+</p>
 
 **`SystemAdmin | Developer | Creator`**
 
