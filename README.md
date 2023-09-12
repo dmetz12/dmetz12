@@ -1,4 +1,7 @@
-# 💻 Dan Metzler
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=30&duration=0000001&pause=1000&color=0FC1FF&center=true&repeat=false&width=435&lines=Dan+Metzler)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=26&pause=1000&color=0FC1FF&center=true&width=435&lines=System+Administrator;Security+%26+Automation+Engineer;UI%2FUX+Designer;Digital+Creator)](https://git.io/typing-svg)
+
 
 **`SystemAdmin | Developer | Creator`**
 
@@ -53,7 +56,7 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 |---|---| -->
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia" alt="Dan Metzlers's GitHub stats" width="48%" style="padding-right: 20px">
+    <img src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia" alt="Dan Metzlers's GitHub stats" width="48%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&layout=compact" alt="Dan's Top Langs" width="48%">
 </div>
 
