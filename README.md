@@ -25,15 +25,14 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 ### 🧰 Languages and Tools
 
-<img  align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/powershell.png" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+![](https://img.shields.io/static/v1?label=OS&message=MacOS&color=0FC1FF&style=for-the-badge&logo=apple)
+![](https://img.shields.io/static/v1?label=Shell&message=zsh&color=0FC1FF&style=for-the-badge&logo=shell)
+![](https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=0FC1FF&style=for-the-badge&logo=visual-studio-code)
+![](https://img.shields.io/static/v1?label=Code&message=Go&color=0FC1FF&style=for-the-badge&logo=go)
+![](https://img.shields.io/static/v1?label=Code&message=Python&color=0FC1FF&style=for-the-badge&logo=python)
+![](https://img.shields.io/static/v1?label=Code&message=PowerShell&color=0FC1FF&style=for-the-badge&logo=powershell)
+![](https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=0FC1FF&style=for-the-badge&logo=github)
+
 
 <br />
 
