@@ -24,9 +24,9 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 ---
 
 
-<h2 align="center">
-   Tools & Technologies
-</h2>
+
+## Tools & Technologies
+
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=OS&message=MacOS&color=0FC1FF&style=for-the-badge&logo=apple"/>
 <img src="https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=0FC1FF&style=for-the-badge&logo=visual-studio-code"/>
@@ -34,7 +34,6 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 <img src="https://img.shields.io/static/v1?label=Code&message=PowerShell&color=0FC1FF&style=for-the-badge&logo=powershell"/>
 <img src="https://img.shields.io/static/v1?label=Tools&message=GitHub&color=0FC1FF&style=for-the-badge&logo=github"/>
 </p>
-
 <br />
 
 
