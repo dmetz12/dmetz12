@@ -23,12 +23,10 @@
 
 ---
 
-
-
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-   <img src="https://img.shields.io/static/v1?label=OS&message=MacOS&color=0FC1FF&style=for-the-badge&logo=apple"/>
+   <img src="https://img.shields.io/static/v1?label=OS&message=Windows&color=0FC1FF&style=for-the-badge&logo=windows"/>
    <img src="https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=0FC1FF&style=for-the-badge&logo=visual-studio-code"/>
    <img src="https://img.shields.io/static/v1?label=Code&message=Python&color=0FC1FF&style=for-the-badge&logo=python"/>
    <img src="https://img.shields.io/static/v1?label=Code&message=PowerShell&color=0FC1FF&style=for-the-badge&logo=powershell"/>
@@ -58,10 +56,10 @@
 </div> -->
 
 ## :bar_chart: GitHub Stats
-<p align="center">
+<div style="text-align: center;">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&count_private=true&hide_rank=true&theme=algolia">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&theme=algolia">
-</p>
+</div>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
