@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-I'm a dedicated system administrator with a passion for crafting advanced scripts to empower enterprise-level automation endeavors. I take pride in optimizing processes to save valuable time and always strive to discover the most efficient pathways for workflow execution.
+👋 I'm a dedicated system administrator with a passion for crafting advanced scripts to empower enterprise-level automation endeavors. I take pride in optimizing processes to save valuable time and always strive to discover the most efficient pathways for workflow execution.
 </p>
 
    <!-- <p align="left">
@@ -25,14 +25,14 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=OS&message=MacOS&color=0FC1FF&style=for-the-badge&logo=apple"/>
-<img src="https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=0FC1FF&style=for-the-badge&logo=visual-studio-code"/>
-<img src="https://img.shields.io/static/v1?label=Code&message=Python&color=0FC1FF&style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/static/v1?label=Code&message=PowerShell&color=0FC1FF&style=for-the-badge&logo=powershell"/>
-<img src="https://img.shields.io/static/v1?label=Tools&message=GitHub&color=0FC1FF&style=for-the-badge&logo=github"/>
+   <img src="https://img.shields.io/static/v1?label=OS&message=MacOS&color=0FC1FF&style=for-the-badge&logo=apple"/>
+   <img src="https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=0FC1FF&style=for-the-badge&logo=visual-studio-code"/>
+   <img src="https://img.shields.io/static/v1?label=Code&message=Python&color=0FC1FF&style=for-the-badge&logo=python"/>
+   <img src="https://img.shields.io/static/v1?label=Code&message=PowerShell&color=0FC1FF&style=for-the-badge&logo=powershell"/>
+   <img src="https://img.shields.io/static/v1?label=Tools&message=GitHub&color=0FC1FF&style=for-the-badge&logo=github"/>
 </p>
 <br />
 
@@ -52,7 +52,7 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 #
 
-### 📊 Stats
+## 📊 Stats
 
 <!-- | ![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia) | ![Dan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&layout=compact) |
 |---|---| -->
@@ -61,6 +61,11 @@ I'm a dedicated system administrator with a passion for crafting advanced script
     <img src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia" alt="Dan Metzlers's GitHub stats" width="48%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&layout=compact" alt="Dan's Top Langs" width="48%">
 </div>
+
+## :bar_chart: GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&count_private=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12">
 
 
 
