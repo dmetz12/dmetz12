@@ -15,8 +15,7 @@ I'm a dedicated system administrator with a passion for crafting advanced script
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p> -->
 
-<br style="border-top: 2px solid #0FC1FF;">
-
+---
 
 ### 🧰 Languages and Tools
 
@@ -31,8 +30,6 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br />
-
-
 
 
 <!-- ### 📺 Latest YouTube Videos -->
@@ -52,7 +49,9 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 ### 📊 Stats
 
-![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia)
+![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia) 
+
+![Dan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&layout=compact)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
