@@ -6,9 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=26&pause=1000&color=0FC1FF&center=true&width=435&lines=System+Administrator;Security+%26+Automation+Engineer;UI%2FUX+Designer;Digital+Creator"/>
 </p>
 
-**`SystemAdmin | Developer | Creator`**
-
+<p align="center">
 I'm a dedicated system administrator with a passion for crafting advanced scripts to empower enterprise-level automation endeavors. I take pride in optimizing processes to save valuable time and always strive to discover the most efficient pathways for workflow execution.
+</p>
 
    <!-- <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
