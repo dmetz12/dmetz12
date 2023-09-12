@@ -15,7 +15,8 @@ I'm a dedicated system administrator with a passion for crafting advanced script
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p> -->
 
-<div style="border-bottom: 2px solid #0FC1FF;"></div>
+<br style="border-top: 2px solid #0FC1FF;">
+
 
 ### 🧰 Languages and Tools
 
