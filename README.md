@@ -60,5 +60,5 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&title_color=0FC1FF&bg_color=555555&icon_color=0FC1FF&text_color=F5F5F5&hide_border=true">
 
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=dmetz12&theme=gruvbox&border_radius=4.5)
 
