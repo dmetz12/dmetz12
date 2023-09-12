@@ -56,7 +56,7 @@
 </div> -->
 
 ## :bar_chart: GitHub Stats
-<p style="display: flex; justify-content: space-between;">
+<p align="center" style="display: flex; justify-content: space-between;">
    <img src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&count_private=true&hide_rank=true&title_color=0FC1FF&bg_color=555555&icon_color=0FC1FF&text_color=F5F5F5&hide_border=true">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&title_color=0FC1FF&bg_color=555555&icon_color=0FC1FF&text_color=F5F5F5&hide_border=true">
 </p>
