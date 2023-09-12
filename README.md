@@ -23,7 +23,10 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 ---
 
-### 🧰 Languages and Tools
+
+<p align="center">
+## Tools & Technologies
+</p>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=OS&message=MacOS&color=0FC1FF&style=for-the-badge&logo=apple"/>
 <img src="https://img.shields.io/static/v1?label=Shell&message=zsh&color=0FC1FF&style=for-the-badge&logo=shell"/>
