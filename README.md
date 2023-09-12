@@ -56,10 +56,9 @@
 </div> -->
 
 ## :bar_chart: GitHub Stats
-<div style="text-align: center;">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&count_private=true&hide_rank=true&theme=algolia">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&theme=algolia">
-</div>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&count_private=true&hide_rank=true&theme=react">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&theme=react">
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
