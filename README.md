@@ -29,12 +29,11 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 </h2>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=OS&message=MacOS&color=0FC1FF&style=for-the-badge&logo=apple"/>
-<img src="https://img.shields.io/static/v1?label=Shell&message=zsh&color=0FC1FF&style=for-the-badge&logo=shell"/>
 <img src="https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=0FC1FF&style=for-the-badge&logo=visual-studio-code"/>
 <img src="https://img.shields.io/static/v1?label=Code&message=Go&color=0FC1FF&style=for-the-badge&logo=go"/>
 <img src="https://img.shields.io/static/v1?label=Code&message=Python&color=0FC1FF&style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/static/v1?label=Code&message=PowerShell&color=0FC1FF&style=for-the-badge&logo=powershell"/>
-<img src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=0FC1FF&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/static/v1?label=Tools&message=GitHub&color=0FC1FF&style=for-the-badge&logo=github"/>
 </p>
 
 <br />
