@@ -49,8 +49,14 @@ I'm a dedicated system administrator with a passion for crafting advanced script
 
 ### 📊 Stats
 
-| ![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia) | ![Dan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&layout=compact) |
-<!-- |---|---| -->
+<!-- | ![Dan Metzlers's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia) | ![Dan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&layout=compact) |
+|---|---| -->
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dmetz12&show_icons=true&hide_rank=true&theme=algolia" alt="Dan Metzlers's GitHub stats" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetz12&layout=compact" alt="Dan's Top Langs" width="48%">
+</div>
+
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
